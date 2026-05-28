@@ -1,0 +1,15 @@
+Cyber Threat Detection System - Requirements
+ Python 3.8+
+
+# Image Processing & GUI Enhancement
+Pillow==10.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Network Scanning (Nmap Python Wrapper)
+python-nmap==0.7.1
+
+# ADB (Android Debug Bridge - for Android device scanning)
+pure-python-adb==0.3.0
+adbutils==1.2.0
