@@ -32,6 +32,14 @@ a 6-month cybersecurity training program at TechLive, Chandigarh.
 ##Data Flow Diagram
 <img width="1321" height="682" alt="Screenshot 2026-05-28 154451" src="https://github.com/user-attachments/assets/ca3c143e-e850-40ab-ba05-a048bc4435c6" />
 
+## Prerequisites (Must Install Separately)
+These tools must be installed manually and are not 
+available via pip:
+- Nmap — https://nmap.org/download.html
+- Wireshark — https://www.wireshark.org/download.html
+- ADB (Android Debug Bridge) — included in Android SDK
+- Kali Linux (recommended environment) — https://www.kali.org
+
 ## How to Run
 1. Clone this repository
    git clone https://github.com/yourusername/cyber-threat-detection
